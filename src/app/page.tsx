@@ -5,9 +5,9 @@ export default function Home() {
     <main className={styles.main}>
       <article className={styles.card}>
         <div className={styles.profileHeader}>
-          <div className={styles.avatar}>SV</div>
-          <h1 className={styles.name}>Sankalp Verma</h1>
-          <p className={styles.usn}>USN: 1BM23CB046</p>
+          <div className={styles.avatar}>BB</div>
+          <h1 className={styles.name}>Brahmansh Bora</h1>
+          <p className={styles.usn}>USN: 1BM23CB008</p>
         </div>
         <div className={styles.statusContainer}>
           <span className={styles.statusDot}></span>
